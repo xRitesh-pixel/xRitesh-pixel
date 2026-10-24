@@ -21,6 +21,7 @@ I'm a Computer Engineering student interested in web development and software en
 ### 📫 Connect With Me
 
 - GitHub: [@xRitesh-pixel](https://github.com/xRitesh-pixel)
+- ![Codewars Profile Badges](https://www.codewars.com/users/xRitesh-pixel/badges/large)   
 
 ---
 
