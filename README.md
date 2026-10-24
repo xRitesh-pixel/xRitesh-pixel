@@ -24,6 +24,7 @@ I'm a Computer Engineering student interested in web development and software en
 ---
 
 *Learning, building, and improving every day.* <p>![Codewars Profile Badges](https://www.codewars.com/users/xRitesh-pixel/badges/large) </p>
+![Codewars](https://github.r2v.ch/codewars?user=xRitesh-pixel)   
 
 
 
