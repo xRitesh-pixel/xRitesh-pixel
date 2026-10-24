@@ -1,31 +1,38 @@
 # Hi, I'm Ritesh 👋
 
-🎓 Computer Engineering Student | 🌱 Learning MERN Stack
+🎓 Computer Engineering Student | 🌱 Future MERN Stack Developer
 
-I'm a Computer Engineering student interested in web development and software engineering. I'm currently learning the MERN stack and improving my skills by building projects and exploring new technologies.
+I'm at the beginning of my web development journey. I'm building my foundations in HTML and CSS and currently learning JavaScript, one concept at a time.
 
-### 🛠️ Technologies I'm Learning
+My goal is to become a MERN stack developer by understanding the fundamentals, practicing consistently, and gradually building real-world applications.
 
-- HTML, CSS, JavaScript
-- React.js
-- Node.js & Express.js
-- MongoDB
+### 📚 My Learning Journey
+
+- ✅ HTML — Learning the fundamentals
+- ✅ CSS — Practicing layouts and styling
+- 🔄 JavaScript — Currently learning
+- ⏳ React.js — Up next
+- ⏳ Node.js & Express.js — Future learning goals
+- ⏳ MongoDB — Future learning goal
+
+### 🎯 What I'm Working Toward
+
+- Build a strong foundation in JavaScript.
+- Learn to create interactive websites.
+- Progress toward full-stack web development.
+- Build projects that solve practical problems.
+- Improve my problem-solving skills along the way.
+
+### 🛠️ Tools I'm Using
+
+- HTML & CSS
+- JavaScript (currently learning)
 - Git & GitHub
 
-### 🚀 Goals
-
-- Build practical full-stack web applications
-- Strengthen my problem-solving skills
-- Learn and grow as a software developer
-
-### 📫 Connect With Me
+### 📫 Find Me on GitHub
 
 - GitHub: [@xRitesh-pixel](https://github.com/xRitesh-pixel)
----
 
-*Learning, building, and improving every day.* <p>![Codewars Profile Badges](https://www.codewars.com/users/xRitesh-pixel/badges/large) </p>
-![Codewars](https://github.r2v.ch/codewars?user=xRitesh-pixel)   
-![Leetcode Stats](https://leetcard.jacoblin.cool/10ri_tesh)   
+I'm here to learn, build, make mistakes, and improve one step at a time.
 
-
-
+*Every experienced developer started somewhere. This is my somewhere.* 🚀
