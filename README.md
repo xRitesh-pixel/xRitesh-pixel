@@ -1,38 +1,65 @@
-# Hi, I'm Ritesh 👋
+# <img src="https://cdn.simpleicons.org/github/181717" width="28" alt="GitHub" /> Ritesh Thakur 
 
-🎓 Computer Engineering Student | 🌱 Future MERN Stack Developer
+**Computer Engineering Student · Aspiring MERN Stack Developer**
 
-I'm at the beginning of my web development journey. I'm building my foundations in HTML and CSS and currently learning JavaScript, one concept at a time.
+Building my way into full-stack development through JavaScript, practical projects, and consistent learning.
 
-My goal is to become a MERN stack developer by understanding the fundamentals, practicing consistently, and gradually building real-world applications.
+<p align="left">
+  <a href="https://github.com/xRitesh-pixel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-thakur-0551183a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 📚 My Learning Journey
+---
 
-- ✅ HTML — Learning the fundamentals
-- ✅ CSS — Practicing layouts and styling
-- 🔄 JavaScript — Currently learning
-- ⏳ React.js — Up next
-- ⏳ Node.js & Express.js — Future learning goals
-- ⏳ MongoDB — Future learning goal
+## TECH STACK
 
-### 🎯 What I'm Working Toward
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" height="42" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+</p>
 
-- Build a strong foundation in JavaScript.
-- Learn to create interactive websites.
-- Progress toward full-stack web development.
-- Build projects that solve practical problems.
-- Improve my problem-solving skills along the way.
+**Design & Workflow**
+- Prototyping
 
-### 🛠️ Tools I'm Using
+---
 
-- HTML & CSS
-- JavaScript (currently learning)
-- Git & GitHub
+## LEARNING PROGRESS
 
-### 📫 Find Me on GitHub
+| Technology | Progress |
+|:---|:---|
+| HTML5 | <code>████████▌░</code> 85% |
+| CSS3 | <code>████████▌░</code> 85% |
+| JavaScript | <code>███████▌░░</code> 75% |
 
-- GitHub: [@xRitesh-pixel](https://github.com/xRitesh-pixel)
+<sub>Self-assessed learning progress.</sub>
 
-I'm here to learn, build, make mistakes, and improve one step at a time.
+---
 
-*Every experienced developer started somewhere. This is my somewhere.* 🚀
+## MY MERN ROADMAP
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="42" alt="React, Node.js, Express and MongoDB" />
+</p>
+
+<sub>React.js → Node.js → Express.js → MongoDB</sub>
+
+---
+
+## FEATURED PROJECT
+
+### Amazon Clone
+
+**Full-Stack E-commerce Application**
+
+An e-commerce project inspired by Amazon, built to apply web development concepts and gain practical experience developing a full-stack application.
+
+[View Repository →](https://github.com/xRitesh-pixel/javascript-learning-journey/tree/main/javascript-amazon-project)
+
+---
+
+<p align="center">
+  <i>Learning by building. Improving one project at a time. 🚀</i>
+</p>
